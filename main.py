@@ -18,7 +18,7 @@ class MainApp(QMainWindow , Ui_MainWindow):
     def handel_ui(self):
         self.setWindowTitle("User & Group")
         self.setFixedSize(440,397)
-        self.setWindowIcon(QIcon("./icons/users.ico"))
+        self.setWindowIcon(QIcon("./users.ico"))
     
     def pushbutton(self):
         self.pushButton.clicked.connect(self.creat_user)
