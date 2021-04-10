@@ -1,4 +1,6 @@
-# create_users
+# Create Users & Groups
+
+for create users and groups in windows operating system
 
 
 # Used libraries : 
